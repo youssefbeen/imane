@@ -168,6 +168,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
     display: none;
+      }
   }
 }
 .fh5co-nav ul {
@@ -428,6 +429,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-footer {
     padding: 3em 0;
   }
+    
 }
 
 .services {
@@ -466,6 +468,7 @@ h1, h2, h3, h4, h5, h6, figure {
   .services .icon {
     margin: 0 auto 30px auto;
   }
+    
 }
 .services .icon i {
   display: table-cell;
@@ -1652,5 +1655,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }#section3{
     margin-top: 150px;
     margin-bottom: 300px
+}
+
+.next{
+    margin-top: 10px;
 }
 /*# sourceMappingURL=style.css.map */
