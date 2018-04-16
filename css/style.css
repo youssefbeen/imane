@@ -407,6 +407,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-register,
 #fh5co-pricing,
 #fh5co-testimonial,
+#fh5co-partenaire,
 #fh5co-blog,
 #fh5co-about,
 #fh5co-staff,
@@ -1668,5 +1669,12 @@ h1, h2, h3, h4, h5, h6, figure {
     display: inline-block;
     margin-left: 5px;
 
+}
+
+.text{
+    color: aliceblue;
+}
+.marg{
+    margin-top: 30px;
 }
 /*# sourceMappingURL=style.css.map */
